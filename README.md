@@ -86,7 +86,7 @@ where i took h
 
 The model is trained in two phases:
 1. Pre-training: BookCorpus dataset (cleaned subset)
-2. Fine-tuning: Poetry corpus
+2. Fine-tuning: Poetry corpus (made from multiple poem datasets)
 
 ## Files
 
