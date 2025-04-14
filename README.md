@@ -27,17 +27,6 @@ The model can generate new poems from prompts with controllable parameters for c
 - PyTorch 1.7+
 - CUDA-capable GPU (recommended, but CPU works too)
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/poetry-generation.git
-cd poetry-generation
-
-# Install dependencies
-pip install torch pandas
-```
-
 ## Usage
 
 The interactive interface allows you to:
